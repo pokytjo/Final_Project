@@ -1,3 +1,5 @@
 # Dementia Prediction Model
 
-*Student Name: Young Tak Jo*
+### Final Project Report
+
+*University of London, Bachelor of Science in Computer Science*
